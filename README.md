@@ -158,29 +158,7 @@
 
 <br/>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=VanshikaChauhan4&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D&border=30363D" alt="GitHub Streak"/>
 
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanshikaChauhan4/VanshikaChauhan4/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/VanshikaChauhan4/VanshikaChauhan4/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
-</picture>
-
-</div>
-
----
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=VanshikaChauhan4&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D&border=30363D" alt="GitHub Streak"/>
-
-</div>
 ## 🤝 Let's Connect & Build Together
 
 <div align="center">
