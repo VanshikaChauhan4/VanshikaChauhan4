@@ -1,3 +1,4 @@
+
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
@@ -185,3 +186,4 @@ A web project for exploring stock information, portfolio views, and trading-rela
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8957E5,50:1F6FEB,100:0D1117&section=footer" width="100%" alt="Footer"/>
 
 </div>
+
